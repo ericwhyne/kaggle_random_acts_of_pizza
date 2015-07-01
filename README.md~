@@ -20,7 +20,8 @@ feature selection techniques. Examine errors and iterate. See how much progress 
 leaderboard we can make. 
  
 Synthesize our work in an ipython notebook. We’d like to make your notebooks public 
-and as useful as possible to people getting started with machine learning. We are more interested in 
+and as useful as possible to people getting 
+started with machine learning. We are more interested in 
 experiments and analysis that make concepts we’ve learned clear than our ranking on the 
 leaderboard (though good performance will make people more interested in reading what we 
 have to say). 
